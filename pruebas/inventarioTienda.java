@@ -49,9 +49,7 @@ public class inventarioTienda {
 
             case 5:
 
-               // OPCIOM 5. Opción añadida por mi, que hace que el programa termine, ya que una
-               // de las cosas que se busca a programar
-               // en cualquier lenguaje es que el programa sea siempre FINITO.
+               // OPCIOM 5. Opción añadida por mi, que hace que el programa termine.
                System.out.println("Saliendo del programa....");
                funciona = false;
                break;
